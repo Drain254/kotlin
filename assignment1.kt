@@ -1,6 +1,6 @@
 // simple interest
 fun main(){
-   val principal : Int = 1000
+   val principal : Int = 2000
     val rate : Int = 23
     val time : Int = 2
     val interest : Int = principal * rate * time /100
